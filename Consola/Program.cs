@@ -26,7 +26,8 @@ namespace Consola
                     Console.WriteLine("6. Potencia");
                     Console.WriteLine("7. Porcentaje");
                     Console.WriteLine("8. Fraccion");
-                    Console.WriteLine("9. Salir");
+                    Console.WriteLine("9. Exponente");
+                    Console.WriteLine("10.Salir"
                     Console.WriteLine("------------------------------------------");
                     Console.WriteLine("Elige una de las opciones");
                     int opcion = Convert.ToInt32(Console.ReadLine());
